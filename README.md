@@ -12,13 +12,18 @@ Este projeto permite realizar um sorteio de amigo secreto de forma simples e int
 ## Instruções de Uso
 
 1. **Adicionar amigos**: Digite o nome do participante e clique em "Adicionar".
+![image](https://github.com/user-attachments/assets/a57de9ea-1497-4f73-93b7-8f61f054f040)
 2. **Sortear um amigo**: Após inserir todos os nomes, clique no botão "Sortear Amigo".
+![image](https://github.com/user-attachments/assets/0c87537b-0f01-4bda-8e27-839fc036c883)
 3. **Aceitar ou recusar**:
    - Se o sorteio foi satisfatório, clique no botão "✔" para aceitar o nome.
-   - Se desejar sortear novamente, clique no botão "🔄".
-4. **Reiniciar sorteio**: Quando todos os amigos forem sorteados, um botão "Novo Sorteio" aparecerá para iniciar uma nova lista de amigos.
+   - Se desejar sortear novamente, clique no botão "🔄" e um novo amigo será escolhido.
+![image](https://github.com/user-attachments/assets/da9527d3-0899-467e-8dd1-8363fcbdf87e)
+4. **Reiniciar sorteio**: Caso o nome sorteado seja o único disponível e seja necessário um novo sorteio, aparecerá o botão "Limpar Sorteio" para que um novo serteio com os mesmo nomes seja iniciado.
+![image](https://github.com/user-attachments/assets/fb494343-ffa0-437f-8f8f-89e3999860c8)
 5. **Bloqueio de adição**: Durante o sorteio, o botão "Adicionar" será desabilitado.
-6. **Finalização**: Quando um novo nome for adicionado após um sorteio, o botão "Sortear Amigo" retornará automaticamente.
+6. **Finalização**: Quando todos os amigos forem sorteados, um botão "Novo Sorteio" aparecerá para iniciar uma nova lista de amigos.
+![image](https://github.com/user-attachments/assets/a390b47f-0c99-4f49-b0c4-1b7a64b97192)
 
 ## Tecnologias Utilizadas
 - HTML
